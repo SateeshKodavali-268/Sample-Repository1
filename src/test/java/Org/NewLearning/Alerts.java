@@ -21,6 +21,8 @@ public class Alerts {
 		System.out.println(driver.switchTo().alert().getText());
 		driver.switchTo().alert().accept();
 		
+		System.out.println("this is new line added in first person code");
+		
 		
 		
 	}
